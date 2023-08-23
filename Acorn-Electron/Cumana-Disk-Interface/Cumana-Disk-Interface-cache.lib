@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Cumana-Electron-Disk-Interface_+5V
+# Cumana-Disk-Interface_+5V
 #
-DEF Cumana-Electron-Disk-Interface_+5V #PWR 0 40 Y Y 1 F P
+DEF Cumana-Disk-Interface_+5V #PWR 0 40 Y Y 1 F P
 F0 "#PWR" 100 50 20 H I C CNN
-F1 "Cumana-Electron-Disk-Interface_+5V" 0 150 59 H V C CNN
+F1 "Cumana-Disk-Interface_+5V" 0 150 59 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -15,11 +15,11 @@ X +5V 1 0 0 0 U 20 20 0 0 W N
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_27128
+# Cumana-Disk-Interface_27128
 #
-DEF Cumana-Electron-Disk-Interface_27128 U 0 40 Y Y 1 F N
+DEF Cumana-Disk-Interface_27128 U 0 40 Y Y 1 F N
 F0 "U" -350 1000 50 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_27128" 330 1010 50 H V C CNN
+F1 "Cumana-Disk-Interface_27128" 330 1010 50 H V C CNN
 F2 "Package_DIP:DIP-40_W15.24mm" 50 -1550 50 H I C CNN
 F3 "" 0 50 50 H I C CNN
 $FPLIST
@@ -58,11 +58,11 @@ X A1 9 -500 350 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_7406
+# Cumana-Disk-Interface_7406
 #
-DEF ~Cumana-Electron-Disk-Interface_7406 U 0 20 Y Y 7 F N
+DEF ~Cumana-Disk-Interface_7406 U 0 20 Y Y 7 F N
 F0 "U" -20 0 20 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_7406" 0 25 20 H I C CNN
+F1 "Cumana-Disk-Interface_7406" 0 25 20 H I C CNN
 F2 "" 50 0 60 H V C CNN
 F3 "" 50 0 60 H V C CNN
 $FPLIST
@@ -112,11 +112,11 @@ X ~ 4 300 100 98 L 20 20 7 2 O I
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_74LS00
+# Cumana-Disk-Interface_74LS00
 #
-DEF Cumana-Electron-Disk-Interface_74LS00 U 0 20 Y Y 5 F N
+DEF Cumana-Disk-Interface_74LS00 U 0 20 Y Y 5 F N
 F0 "U" 0 -20 20 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_74LS00" 0 20 20 H V C CNN
+F1 "Cumana-Disk-Interface_74LS00" 0 20 20 H V C CNN
 F2 "" 50 0 60 H V C CNN
 F3 "" 50 0 60 H V C CNN
 $FPLIST
@@ -162,11 +162,11 @@ X ~ 11 -250 0 300 R 20 20 5 2 I I
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_74LS02
+# Cumana-Disk-Interface_74LS02
 #
-DEF Cumana-Electron-Disk-Interface_74LS02 U 0 20 Y Y 5 F N
+DEF Cumana-Disk-Interface_74LS02 U 0 20 Y Y 5 F N
 F0 "U" 0 0 20 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_74LS02" 0 25 20 H V C CNN
+F1 "Cumana-Disk-Interface_74LS02" 0 25 20 H V C CNN
 F2 "" 50 0 60 H V C CNN
 F3 "" 50 0 60 H V C CNN
 $FPLIST
@@ -216,11 +216,11 @@ X ~ 11 -250 0 300 R 20 20 5 2 I I
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_74LS04
+# Cumana-Disk-Interface_74LS04
 #
-DEF ~Cumana-Electron-Disk-Interface_74LS04 U 0 20 Y Y 7 F N
+DEF ~Cumana-Disk-Interface_74LS04 U 0 20 Y Y 7 F N
 F0 "U" -20 0 20 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_74LS04" 0 100 20 H I C CNN
+F1 "Cumana-Disk-Interface_74LS04" 0 100 20 H I C CNN
 F2 "" 50 0 60 H V C CNN
 F3 "" 50 0 60 H V C CNN
 $FPLIST
@@ -270,11 +270,11 @@ X ~ 4 300 100 98 L 20 20 7 2 O I
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_74LS138
+# Cumana-Disk-Interface_74LS138
 #
-DEF Cumana-Electron-Disk-Interface_74LS138 U 0 20 Y Y 1 F N
+DEF Cumana-Disk-Interface_74LS138 U 0 20 Y Y 1 F N
 F0 "U" -200 450 50 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_74LS138" 200 450 50 H V C CNN
+F1 "Cumana-Disk-Interface_74LS138" 200 450 50 H V C CNN
 F2 "" 0 50 60 H V C CNN
 F3 "" 0 50 60 H V C CNN
 $FPLIST
@@ -301,11 +301,11 @@ X Y6 9 350 -250 100 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_74LS161
+# Cumana-Disk-Interface_74LS161
 #
-DEF Cumana-Electron-Disk-Interface_74LS161 U 0 40 Y Y 1 F N
+DEF Cumana-Disk-Interface_74LS161 U 0 40 Y Y 1 F N
 F0 "U" -200 550 60 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_74LS161" 250 550 60 H V C CNN
+F1 "Cumana-Disk-Interface_74LS161" 250 550 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -332,11 +332,11 @@ X ~LOAD 9 -350 100 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_74LS174
+# Cumana-Disk-Interface_74LS174
 #
-DEF Cumana-Electron-Disk-Interface_74LS174 U 0 40 Y Y 1 F N
+DEF Cumana-Disk-Interface_74LS174 U 0 40 Y Y 1 F N
 F0 "U" -200 550 60 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_74LS174" 250 550 60 H V C CNN
+F1 "Cumana-Disk-Interface_74LS174" 250 550 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -363,11 +363,11 @@ X CLK 9 -350 250 100 R 50 50 1 1 I C
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_74LS32
+# Cumana-Disk-Interface_74LS32
 #
-DEF ~Cumana-Electron-Disk-Interface_74LS32 U 0 20 Y Y 5 F N
+DEF ~Cumana-Disk-Interface_74LS32 U 0 20 Y Y 5 F N
 F0 "U" 0 0 20 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_74LS32" 0 75 20 H I C CNN
+F1 "Cumana-Disk-Interface_74LS32" 0 75 20 H I C CNN
 F2 "" 50 0 60 H V C CNN
 F3 "" 50 0 60 H V C CNN
 $FPLIST
@@ -425,11 +425,11 @@ X ~ 11 -250 0 300 R 20 20 5 2 I I
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_Battery_Cell
+# Cumana-Disk-Interface_Battery_Cell
 #
-DEF Cumana-Electron-Disk-Interface_Battery_Cell BT 0 0 N N 1 F P
+DEF Cumana-Disk-Interface_Battery_Cell BT 0 0 N N 1 F P
 F0 "BT" 100 100 50 H V L CNN
-F1 "Cumana-Electron-Disk-Interface_Battery_Cell" 100 0 50 H V L CNN
+F1 "Cumana-Disk-Interface_Battery_Cell" 100 0 50 H V L CNN
 F2 "" 0 60 50 V I C CNN
 F3 "" 0 60 50 V I C CNN
 DRAW
@@ -444,11 +444,11 @@ X - 2 0 -100 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_C
+# Cumana-Disk-Interface_C
 #
-DEF ~Cumana-Electron-Disk-Interface_C C 0 10 N Y 1 F N
+DEF ~Cumana-Disk-Interface_C C 0 10 N Y 1 F N
 F0 "C" 50 50 40 H V L CNN
-F1 "Cumana-Electron-Disk-Interface_C" 50 -50 40 H I L CNN
+F1 "Cumana-Disk-Interface_C" 50 -50 40 H I L CNN
 F2 "" 38 -150 30 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -464,11 +464,11 @@ X ~ 2 0 -100 79 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_CDM6116
+# Cumana-Disk-Interface_CDM6116
 #
-DEF Cumana-Electron-Disk-Interface_CDM6116 U 0 40 Y Y 1 F N
+DEF Cumana-Disk-Interface_CDM6116 U 0 40 Y Y 1 F N
 F0 "U" -350 850 50 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_CDM6116" 330 860 50 H V C CNN
+F1 "Cumana-Disk-Interface_CDM6116" 330 860 50 H V C CNN
 F2 "Package_DIP:DIP-40_W15.24mm" 50 -1200 50 H I C CNN
 F3 "" 0 -100 50 H I C CNN
 $FPLIST
@@ -503,11 +503,11 @@ X D0 9 500 350 100 L 50 50 1 1 T
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_CONN_12X2
+# Cumana-Disk-Interface_CONN_12X2
 #
-DEF Cumana-Electron-Disk-Interface_CONN_12X2 J 0 40 Y N 1 F N
+DEF Cumana-Disk-Interface_CONN_12X2 J 0 40 Y N 1 F N
 F0 "J" 50 600 50 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_CONN_12X2" 50 -700 50 H V C CNN
+F1 "Cumana-Disk-Interface_CONN_12X2" 50 -700 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -566,11 +566,11 @@ X Pin_9 9 -200 -300 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_CONN_9X2
+# Cumana-Disk-Interface_CONN_9X2
 #
-DEF Cumana-Electron-Disk-Interface_CONN_9X2 J 0 40 Y N 1 F N
+DEF Cumana-Disk-Interface_CONN_9X2 J 0 40 Y N 1 F N
 F0 "J" 50 500 50 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_CONN_9X2" 50 -500 50 H V C CNN
+F1 "Cumana-Disk-Interface_CONN_9X2" 50 -500 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -617,11 +617,11 @@ X Pin_9 9 -200 -400 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_CP1
+# Cumana-Disk-Interface_CP1
 #
-DEF ~Cumana-Electron-Disk-Interface_CP1 C 0 10 N Y 1 F N
+DEF ~Cumana-Disk-Interface_CP1 C 0 10 N Y 1 F N
 F0 "C" 50 50 39 H V L CNN
-F1 "Cumana-Electron-Disk-Interface_CP1" 50 -50 40 H I L CNN
+F1 "Cumana-Disk-Interface_CP1" 50 -50 40 H I L CNN
 F2 "" 38 -150 30 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -639,11 +639,11 @@ X ~ 2 0 -100 79 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_C_Variable
+# Cumana-Disk-Interface_C_Variable
 #
-DEF ~Cumana-Electron-Disk-Interface_C_Variable C 0 10 N Y 1 F N
+DEF ~Cumana-Disk-Interface_C_Variable C 0 10 N Y 1 F N
 F0 "C" -100 53 39 H V L CNN
-F1 "Cumana-Electron-Disk-Interface_C_Variable" 50 -50 40 H I L CNN
+F1 "Cumana-Disk-Interface_C_Variable" 50 -50 40 H I L CNN
 F2 "" 38 -150 30 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -661,11 +661,11 @@ X ~ 2 0 -100 79 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_Conn_01x34_Female
+# Cumana-Disk-Interface_Conn_01x34_Female
 #
-DEF Cumana-Electron-Disk-Interface_Conn_01x34_Female J 0 40 Y N 1 F N
+DEF Cumana-Disk-Interface_Conn_01x34_Female J 0 40 Y N 1 F N
 F0 "J" 0 1700 50 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_Conn_01x34_Female" 0 -1800 50 H V C CNN
+F1 "Cumana-Disk-Interface_Conn_01x34_Female" 0 -1800 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -777,11 +777,11 @@ X Pin_9 9 -200 800 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_Crystal_Small
+# Cumana-Disk-Interface_Crystal_Small
 #
-DEF Cumana-Electron-Disk-Interface_Crystal_Small Y 0 40 N N 1 F N
+DEF Cumana-Disk-Interface_Crystal_Small Y 0 40 N N 1 F N
 F0 "Y" 0 100 39 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_Crystal_Small" 0 -100 50 H V C CNN
+F1 "Cumana-Disk-Interface_Crystal_Small" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -796,11 +796,11 @@ X 2 2 100 0 50 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_D_Zener
+# Cumana-Disk-Interface_D_Zener
 #
-DEF Cumana-Electron-Disk-Interface_D_Zener D 0 10 N N 1 F N
+DEF Cumana-Disk-Interface_D_Zener D 0 10 N N 1 F N
 F0 "D" 0 90 39 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_D_Zener" 0 -90 50 H V C CNN
+F1 "Cumana-Disk-Interface_D_Zener" 0 -90 50 H V C CNN
 F2 "" 0 0 50 V I C CNN
 F3 "" 0 0 50 V I C CNN
 $FPLIST
@@ -818,11 +818,11 @@ X A 2 100 0 70 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_Diode
+# Cumana-Disk-Interface_Diode
 #
-DEF ~Cumana-Electron-Disk-Interface_Diode D 0 10 N N 1 F N
+DEF ~Cumana-Disk-Interface_Diode D 0 10 N N 1 F N
 F0 "D" 0 90 39 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_Diode" 0 -90 50 H I C CNN
+F1 "Cumana-Disk-Interface_Diode" 0 -90 50 H I C CNN
 F2 "" 0 0 50 V I C CNN
 F3 "" 0 0 50 V I C CNN
 $FPLIST
@@ -840,11 +840,11 @@ X A 2 100 0 70 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_FDC9216B
+# Cumana-Disk-Interface_FDC9216B
 #
-DEF Cumana-Electron-Disk-Interface_FDC9216B U 0 40 Y Y 1 F N
+DEF Cumana-Disk-Interface_FDC9216B U 0 40 Y Y 1 F N
 F0 "U" -200 550 60 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_FDC9216B" 250 550 60 H V C CNN
+F1 "Cumana-Disk-Interface_FDC9216B" 250 550 60 H V C CNN
 F2 "" 0 -50 60 H V C CNN
 F3 "" 0 -50 60 H V C CNN
 $FPLIST
@@ -863,11 +863,11 @@ X +5v 8 0 550 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_GND
+# Cumana-Disk-Interface_GND
 #
-DEF ~Cumana-Electron-Disk-Interface_GND #PWR 0 0 Y Y 1 F P
+DEF ~Cumana-Disk-Interface_GND #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 0 30 H I C CNN
-F1 "Cumana-Electron-Disk-Interface_GND" 0 -70 30 H I C CNN
+F1 "Cumana-Disk-Interface_GND" 0 -70 30 H I C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -876,11 +876,11 @@ X GND 1 0 0 0 U 30 30 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_HD146818
+# Cumana-Disk-Interface_HD146818
 #
-DEF Cumana-Electron-Disk-Interface_HD146818 U 0 40 Y Y 1 F N
+DEF Cumana-Disk-Interface_HD146818 U 0 40 Y Y 1 F N
 F0 "U" -350 800 50 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_HD146818" 330 810 50 H V C CNN
+F1 "Cumana-Disk-Interface_HD146818" 330 810 50 H V C CNN
 F2 "Package_DIP:DIP-40_W15.24mm" 50 -1150 50 H I C CNN
 F3 "" 0 -150 50 H I C CNN
 $FPLIST
@@ -915,11 +915,11 @@ X AD5 9 500 0 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_M5W1793-02P
+# Cumana-Disk-Interface_M5W1793-02P
 #
-DEF Cumana-Electron-Disk-Interface_M5W1793-02P U 0 40 Y Y 1 F N
+DEF Cumana-Disk-Interface_M5W1793-02P U 0 40 Y Y 1 F N
 F0 "U" -350 1100 50 H V C CNN
-F1 "Cumana-Electron-Disk-Interface_M5W1793-02P" 330 1110 50 H V C CNN
+F1 "Cumana-Disk-Interface_M5W1793-02P" 330 1110 50 H V C CNN
 F2 "Package_DIP:DIP-40_W15.24mm" 50 -1600 50 H I C CNN
 F3 "" 0 150 50 H I C CNN
 $FPLIST
@@ -970,11 +970,11 @@ X D2 9 500 300 100 L 50 50 1 1 T
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_PWR_FLAG
+# Cumana-Disk-Interface_PWR_FLAG
 #
-DEF Cumana-Electron-Disk-Interface_PWR_FLAG #FLG 0 0 N N 1 F P
+DEF Cumana-Disk-Interface_PWR_FLAG #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 95 30 H I C CNN
-F1 "Cumana-Electron-Disk-Interface_PWR_FLAG" 0 180 30 H V C CNN
+F1 "Cumana-Disk-Interface_PWR_FLAG" 0 180 30 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -983,11 +983,11 @@ X pwr 1 0 0 0 U 20 20 0 0 w
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_Q_NPN_CBE
+# Cumana-Disk-Interface_Q_NPN_CBE
 #
-DEF Cumana-Electron-Disk-Interface_Q_NPN_CBE Q 0 0 Y N 1 F N
+DEF Cumana-Disk-Interface_Q_NPN_CBE Q 0 0 Y N 1 F N
 F0 "Q" 200 50 50 H V L CNN
-F1 "Cumana-Electron-Disk-Interface_Q_NPN_CBE" 200 -50 50 H V L CNN
+F1 "Cumana-Disk-Interface_Q_NPN_CBE" 200 -50 50 H V L CNN
 F2 "" 200 100 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -1002,11 +1002,11 @@ X E 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_Q_PNP_CBE
+# Cumana-Disk-Interface_Q_PNP_CBE
 #
-DEF Cumana-Electron-Disk-Interface_Q_PNP_CBE Q 0 0 Y N 1 F N
+DEF Cumana-Disk-Interface_Q_PNP_CBE Q 0 0 Y N 1 F N
 F0 "Q" 200 50 50 H V L CNN
-F1 "Cumana-Electron-Disk-Interface_Q_PNP_CBE" 200 -50 50 H V L CNN
+F1 "Cumana-Disk-Interface_Q_PNP_CBE" 200 -50 50 H V L CNN
 F2 "" 200 100 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -1021,11 +1021,11 @@ X E 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Cumana-Electron-Disk-Interface_R
+# Cumana-Disk-Interface_R
 #
-DEF ~Cumana-Electron-Disk-Interface_R R 0 0 N Y 1 F N
+DEF ~Cumana-Disk-Interface_R R 0 0 N Y 1 F N
 F0 "R" 0 0 39 V V C CNN
-F1 "Cumana-Electron-Disk-Interface_R" -100 0 50 V I C CNN
+F1 "Cumana-Disk-Interface_R" -100 0 50 V I C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST

@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Cumana-Disk-Interface-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Cumana-Electron-Disk-Interface:M5W1793-02P U11
+L Cumana-Disk-Interface:M5W1793-02P U11
 U 1 1 647FC86F
 P 4875 3100
 F 0 "U11" H 4550 4225 50  0000 C CNN
@@ -26,7 +25,7 @@ F 3 "" H 4875 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:R R5
+L Cumana-Disk-Interface:R R5
 U 1 1 647FD16F
 P 10775 1300
 F 0 "R5" H 10825 1300 40  0000 R CNN
@@ -37,7 +36,7 @@ F 3 "" H 10775 1250 30  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:Conn_01x34_Female J3
+L Cumana-Disk-Interface:Conn_01x34_Female J3
 U 1 1 648061AE
 P 11125 3425
 F 0 "J3" H 11025 1600 50  0000 C CNN
@@ -50,7 +49,7 @@ $EndComp
 Wire Wire Line
 	4375 2700 4225 2700
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0101
+L Cumana-Disk-Interface:+5V #PWR0101
 U 1 1 64806FA2
 P 10775 1075
 F 0 "#PWR0101" H 10875 1125 20  0001 C CNN
@@ -63,7 +62,7 @@ $EndComp
 Wire Wire Line
 	4375 2800 4225 2800
 $Comp
-L Cumana-Electron-Disk-Interface:R R4
+L Cumana-Disk-Interface:R R4
 U 1 1 64807553
 P 10525 1300
 F 0 "R4" H 10575 1300 40  0000 R CNN
@@ -74,7 +73,7 @@ F 3 "" H 10525 1250 30  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:R R6
+L Cumana-Disk-Interface:R R6
 U 1 1 648078C1
 P 10650 1300
 F 0 "R6" H 10700 1300 40  0000 R CNN
@@ -94,7 +93,7 @@ Wire Wire Line
 Wire Wire Line
 	4375 3800 4275 3800
 $Comp
-L Cumana-Electron-Disk-Interface:R R7
+L Cumana-Disk-Interface:R R7
 U 1 1 64811A22
 P 4125 3800
 F 0 "R7" V 4125 3825 40  0000 R CNN
@@ -105,7 +104,7 @@ F 3 "" H 4125 3750 30  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0105
+L Cumana-Disk-Interface:+5V #PWR0105
 U 1 1 64811A28
 P 3725 3800
 F 0 "#PWR0105" H 3825 3850 20  0001 C CNN
@@ -118,7 +117,7 @@ $EndComp
 Wire Wire Line
 	4375 3950 4225 3950
 $Comp
-L Cumana-Electron-Disk-Interface:CONN_9X2 J1
+L Cumana-Disk-Interface:CONN_9X2 J1
 U 1 1 6483E2A3
 P 1075 1525
 F 0 "J1" H 1125 2142 50  0000 C CNN
@@ -129,7 +128,7 @@ F 3 "" H 1075 1525 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:CONN_12X2 J2
+L Cumana-Disk-Interface:CONN_12X2 J2
 U 1 1 6483ECE7
 P 1075 2625
 F 0 "J2" H 1125 3225 50  0000 C CNN
@@ -140,7 +139,7 @@ F 3 "" H 1075 2625 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0109
+L Cumana-Disk-Interface:+5V #PWR0109
 U 1 1 6483F346
 P 1025 725
 F 0 "#PWR0109" H 1125 775 20  0001 C CNN
@@ -170,7 +169,7 @@ NoConn ~ 5375 3550
 NoConn ~ 5375 3900
 NoConn ~ 5375 4000
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0110
+L Cumana-Disk-Interface:GND #PWR0110
 U 1 1 6489FF6A
 P 4875 4350
 F 0 "#PWR0110" H 4875 4350 30  0001 C CNN
@@ -181,7 +180,7 @@ F 3 "" H 4875 4350 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0111
+L Cumana-Disk-Interface:+5V #PWR0111
 U 1 1 648A000F
 P 4875 1900
 F 0 "#PWR0111" H 4975 1950 20  0001 C CNN
@@ -192,7 +191,7 @@ F 3 "" H 4875 1900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:HD146818 U7
+L Cumana-Disk-Interface:HD146818 U7
 U 1 1 64846D67
 P 8775 3500
 F 0 "U7" H 8600 4275 50  0000 C CNN
@@ -203,7 +202,7 @@ F 3 "" H 8775 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0112
+L Cumana-Disk-Interface:GND #PWR0112
 U 1 1 6484E833
 P 8775 4350
 F 0 "#PWR0112" H 8775 4350 30  0001 C CNN
@@ -276,7 +275,7 @@ D6
 Text Label 9350 3700 0    50   ~ 0
 D7
 $Comp
-L Cumana-Electron-Disk-Interface:CDM6116 U6
+L Cumana-Disk-Interface:CDM6116 U6
 U 1 1 6486332B
 P 5825 6400
 F 0 "U6" H 5525 7225 50  0000 C CNN
@@ -287,7 +286,7 @@ F 3 "" H 5825 6300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0114
+L Cumana-Disk-Interface:GND #PWR0114
 U 1 1 64863413
 P 5825 7300
 F 0 "#PWR0114" H 5825 7300 30  0001 C CNN
@@ -298,7 +297,7 @@ F 3 "" H 5825 7300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0115
+L Cumana-Disk-Interface:+5V #PWR0115
 U 1 1 648634E1
 P 5825 5475
 F 0 "#PWR0115" H 5925 5525 20  0001 C CNN
@@ -341,7 +340,7 @@ D6
 Text Label 6400 6750 0    50   ~ 0
 D7
 $Comp
-L Cumana-Electron-Disk-Interface:27128 U5
+L Cumana-Disk-Interface:27128 U5
 U 1 1 648575B8
 P 4025 6550
 F 0 "U5" H 3700 7525 50  0000 C CNN
@@ -352,7 +351,7 @@ F 3 "" H 4025 6450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0116
+L Cumana-Disk-Interface:GND #PWR0116
 U 1 1 64869403
 P 4025 7600
 F 0 "#PWR0116" H 4025 7600 30  0001 C CNN
@@ -363,7 +362,7 @@ F 3 "" H 4025 7600 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0117
+L Cumana-Disk-Interface:+5V #PWR0117
 U 1 1 64869454
 P 4025 5475
 F 0 "#PWR0117" H 4125 5525 20  0001 C CNN
@@ -374,7 +373,7 @@ F 3 "" H 4025 5475 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0118
+L Cumana-Disk-Interface:GND #PWR0118
 U 1 1 6486E341
 P 1900 7600
 F 0 "#PWR0118" H 1900 7600 30  0001 C CNN
@@ -385,7 +384,7 @@ F 3 "" H 1900 7600 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0119
+L Cumana-Disk-Interface:+5V #PWR0119
 U 1 1 6486E347
 P 1900 5475
 F 0 "#PWR0119" H 2000 5525 20  0001 C CNN
@@ -702,7 +701,7 @@ Wire Wire Line
 Text Label 1350 1625 0    50   ~ 0
 A13
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0120
+L Cumana-Disk-Interface:+5V #PWR0120
 U 1 1 6493CD8D
 P 3250 725
 F 0 "#PWR0120" H 3350 775 20  0001 C CNN
@@ -713,7 +712,7 @@ F 3 "" H 3250 725 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0121
+L Cumana-Disk-Interface:GND #PWR0121
 U 1 1 6493CFD5
 P 3250 1825
 F 0 "#PWR0121" H 3250 1825 30  0001 C CNN
@@ -746,7 +745,7 @@ NoConn ~ 3600 1225
 Text Notes 9150 5925 0    50   ~ 0
 Supply to power rails, IC's and decoupling caps
 $Comp
-L Cumana-Electron-Disk-Interface:74LS00 U2
+L Cumana-Disk-Interface:74LS00 U2
 U 5 1 649F6492
 P 8925 6300
 F 0 "U2" H 8850 6500 20  0000 L CNN
@@ -757,7 +756,7 @@ F 3 "" H 9043 6257 60  0000 L CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0122
+L Cumana-Disk-Interface:GND #PWR0122
 U 1 1 64A0645C
 P 8925 6675
 F 0 "#PWR0122" H 8925 6675 30  0001 C CNN
@@ -768,7 +767,7 @@ F 3 "" H 8925 6675 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0123
+L Cumana-Disk-Interface:+5V #PWR0123
 U 1 1 64A064BE
 P 8925 5975
 F 0 "#PWR0123" H 9025 6025 20  0001 C CNN
@@ -779,7 +778,7 @@ F 3 "" H 8925 5975 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS00 U2
+L Cumana-Disk-Interface:74LS00 U2
 U 1 1 64A65990
 P 6725 1075
 F 0 "U2" H 6725 1075 20  0000 C CNN
@@ -790,7 +789,7 @@ F 3 "" H 6775 1075 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS00 U2
+L Cumana-Disk-Interface:74LS00 U2
 U 3 1 6498930F
 P 3025 5575
 F 0 "U2" H 3025 5575 20  0000 C CNN
@@ -805,7 +804,7 @@ A13
 Text Label 2850 5525 2    50   ~ 0
 A12
 $Comp
-L Cumana-Electron-Disk-Interface:74LS02 U3
+L Cumana-Disk-Interface:74LS02 U3
 U 5 1 64A95750
 P 9125 6300
 F 0 "U3" H 9025 6500 20  0000 L CNN
@@ -816,7 +815,7 @@ F 3 "" H 9175 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS02 U3
+L Cumana-Disk-Interface:74LS02 U3
 U 1 1 649A173F
 P 3300 5500
 F 0 "U3" H 3300 5500 20  0000 C CNN
@@ -827,7 +826,7 @@ F 3 "" H 3350 5500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS02 U3
+L Cumana-Disk-Interface:74LS02 U3
 U 3 1 64A93782
 P 6425 1025
 F 0 "U3" H 6425 1025 20  0000 C CNN
@@ -838,7 +837,7 @@ F 3 "" H 6475 1025 60  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS02 U3
+L Cumana-Disk-Interface:74LS02 U3
 U 4 1 64BF1BEC
 P 7550 3400
 F 0 "U3" H 7550 3400 20  0000 C CNN
@@ -849,7 +848,7 @@ F 3 "" H 7600 3400 60  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS32 U8
+L Cumana-Disk-Interface:74LS32 U8
 U 5 1 649D5C5B
 P 9325 6300
 F 0 "U8" H 9225 6500 20  0000 L CNN
@@ -860,7 +859,7 @@ F 3 "" H 9375 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS32 U8
+L Cumana-Disk-Interface:74LS32 U8
 U 1 1 649FB88C
 P 3300 5850
 F 0 "U8" H 3300 5850 20  0000 C CNN
@@ -871,7 +870,7 @@ F 3 "" H 3350 5850 60  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS32 U8
+L Cumana-Disk-Interface:74LS32 U8
 U 2 1 649FBD5E
 P 5175 5700
 F 0 "U8" H 5175 5700 20  0000 C CNN
@@ -882,7 +881,7 @@ F 3 "" H 5225 5700 60  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS32 U8
+L Cumana-Disk-Interface:74LS32 U8
 U 4 1 649FC4BC
 P 2625 1600
 F 0 "U8" H 2625 1600 20  0000 C CNN
@@ -897,7 +896,7 @@ A6
 Text Label 2325 1675 2    50   ~ 0
 A5
 $Comp
-L Cumana-Electron-Disk-Interface:74LS04 U9
+L Cumana-Disk-Interface:74LS04 U9
 U 7 1 64B4EAAA
 P 9525 6300
 F 0 "U9" H 9425 6500 20  0000 L CNN
@@ -908,7 +907,7 @@ F 3 "" H 9575 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS04 U9
+L Cumana-Disk-Interface:74LS04 U9
 U 1 1 64A2B7EE
 P 3025 5425
 F 0 "U9" H 3025 5425 20  0000 C CNN
@@ -921,7 +920,7 @@ $EndComp
 Text Label 2850 5425 2    50   ~ 0
 A11
 $Comp
-L Cumana-Electron-Disk-Interface:74LS04 U9
+L Cumana-Disk-Interface:74LS04 U9
 U 2 1 64AACF7D
 P 7300 3300
 F 0 "U9" H 7300 3300 20  0000 C CNN
@@ -932,7 +931,7 @@ F 3 "" H 7350 3300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS04 U9
+L Cumana-Disk-Interface:74LS04 U9
 U 3 1 64AEE9B4
 P 1225 5950
 F 0 "U9" H 1225 5950 20  0000 C CNN
@@ -943,7 +942,7 @@ F 3 "" H 1275 5950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS04 U9
+L Cumana-Disk-Interface:74LS04 U9
 U 5 1 64B30719
 P 4925 5625
 F 0 "U9" H 4925 5625 20  0000 C CNN
@@ -978,7 +977,7 @@ Wire Wire Line
 Text Label 6825 1725 2    50   ~ 0
 D4
 $Comp
-L Cumana-Electron-Disk-Interface:R R2
+L Cumana-Disk-Interface:R R2
 U 1 1 64D5782A
 P 8050 1175
 F 0 "R2" V 8050 1150 50  0000 L CNN
@@ -989,7 +988,7 @@ F 3 "" H 8050 1175 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:Q_NPN_CBE Q2
+L Cumana-Disk-Interface:Q_NPN_CBE Q2
 U 1 1 64B04A1F
 P 8750 900
 F 0 "Q2" H 8941 900 50  0000 L CNN
@@ -1000,7 +999,7 @@ F 3 "" H 8750 900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0124
+L Cumana-Disk-Interface:GND #PWR0124
 U 1 1 64B04DB5
 P 8850 1150
 F 0 "#PWR0124" H 8850 1150 30  0001 C CNN
@@ -1011,7 +1010,7 @@ F 3 "" H 8850 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:R R3
+L Cumana-Disk-Interface:R R3
 U 1 1 64B2FD2D
 P 8050 1275
 F 0 "R3" V 8050 1300 50  0000 C CNN
@@ -1022,7 +1021,7 @@ F 3 "" H 8050 1275 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:Q_NPN_CBE Q3
+L Cumana-Disk-Interface:Q_NPN_CBE Q3
 U 1 1 64C25B5B
 P 8750 1500
 F 0 "Q3" H 8941 1500 50  0000 L CNN
@@ -1033,7 +1032,7 @@ F 3 "" H 8750 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0125
+L Cumana-Disk-Interface:GND #PWR0125
 U 1 1 64C25D49
 P 8850 1725
 F 0 "#PWR0125" H 8850 1725 30  0001 C CNN
@@ -1044,7 +1043,7 @@ F 3 "" H 8850 1725 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0126
+L Cumana-Disk-Interface:GND #PWR0126
 U 1 1 64D5B887
 P 7250 1925
 F 0 "#PWR0126" H 7250 1925 30  0001 C CNN
@@ -1055,7 +1054,7 @@ F 3 "" H 7250 1925 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0127
+L Cumana-Disk-Interface:+5V #PWR0127
 U 1 1 64D5B93E
 P 7250 725
 F 0 "#PWR0127" H 7350 775 20  0001 C CNN
@@ -1066,7 +1065,7 @@ F 3 "" H 7250 725 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS161 U12
+L Cumana-Disk-Interface:74LS161 U12
 U 1 1 64AC95A7
 P 1425 4550
 F 0 "U12" H 1200 5100 60  0000 C CNN
@@ -1077,7 +1076,7 @@ F 3 "" H 1425 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0128
+L Cumana-Disk-Interface:+5V #PWR0128
 U 1 1 64AC99DC
 P 1425 3800
 F 0 "#PWR0128" H 1525 3850 20  0001 C CNN
@@ -1088,7 +1087,7 @@ F 3 "" H 1425 3800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0129
+L Cumana-Disk-Interface:GND #PWR0129
 U 1 1 64AC9B47
 P 1425 5150
 F 0 "#PWR0129" H 1425 5150 30  0001 C CNN
@@ -1099,7 +1098,7 @@ F 3 "" H 1425 5150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:R R20
+L Cumana-Disk-Interface:R R20
 U 1 1 64B4CA37
 P 1000 4000
 F 0 "R20" V 1000 3925 50  0000 L CNN
@@ -1119,7 +1118,7 @@ NoConn ~ 1775 4800
 Wire Wire Line
 	4225 3500 4375 3500
 $Comp
-L Cumana-Electron-Disk-Interface:FDC9216B U13
+L Cumana-Disk-Interface:FDC9216B U13
 U 1 1 6506E822
 P 3025 3400
 F 0 "U13" H 2825 3950 50  0000 C CNN
@@ -1130,7 +1129,7 @@ F 3 "" H 3025 3350 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0131
+L Cumana-Disk-Interface:GND #PWR0131
 U 1 1 6506E8B8
 P 3025 3950
 F 0 "#PWR0131" H 3025 3950 30  0001 C CNN
@@ -1141,7 +1140,7 @@ F 3 "" H 3025 3950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0132
+L Cumana-Disk-Interface:+5V #PWR0132
 U 1 1 6506E9D7
 P 3025 2875
 F 0 "#PWR0132" H 3125 2925 20  0001 C CNN
@@ -1154,7 +1153,7 @@ $EndComp
 Wire Wire Line
 	3375 3250 4375 3250
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0133
+L Cumana-Disk-Interface:GND #PWR0133
 U 1 1 6515C015
 P 2625 3225
 F 0 "#PWR0133" H 2625 3225 30  0001 C CNN
@@ -1165,7 +1164,7 @@ F 3 "" H 2625 3225 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:R R1
+L Cumana-Disk-Interface:R R1
 U 1 1 652545DF
 P 10900 1300
 F 0 "R1" H 10950 1300 40  0000 R CNN
@@ -1176,7 +1175,7 @@ F 3 "" H 10900 1250 30  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:7406 U14
+L Cumana-Disk-Interface:7406 U14
 U 7 1 65357F17
 P 9725 6300
 F 0 "U14" H 9625 6500 20  0000 L CNN
@@ -1187,7 +1186,7 @@ F 3 "" H 9775 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:7406 U14
+L Cumana-Disk-Interface:7406 U14
 U 2 1 653F65F1
 P 5575 2450
 F 0 "U14" H 5525 2450 20  0000 L CNN
@@ -1198,7 +1197,7 @@ F 3 "" H 5625 2450 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:7406 U14
+L Cumana-Disk-Interface:7406 U14
 U 3 1 654631E9
 P 5575 3650
 F 0 "U14" H 5525 3650 20  0000 L CNN
@@ -1209,7 +1208,7 @@ F 3 "" H 5625 3650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:7406 U14
+L Cumana-Disk-Interface:7406 U14
 U 4 1 654D317A
 P 5575 3750
 F 0 "U14" H 5525 3750 20  0000 L CNN
@@ -1220,7 +1219,7 @@ F 3 "" H 5625 3750 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:7406 U14
+L Cumana-Disk-Interface:7406 U14
 U 5 1 6557FC29
 P 5575 2350
 F 0 "U14" H 5600 2350 20  0000 R CNN
@@ -1231,7 +1230,7 @@ F 3 "" H 5625 2350 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:7406 U14
+L Cumana-Disk-Interface:7406 U14
 U 6 1 655BD70B
 P 7775 1375
 F 0 "U14" H 7725 1375 20  0000 L CNN
@@ -1242,7 +1241,7 @@ F 3 "" H 7825 1375 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0102
+L Cumana-Disk-Interface:GND #PWR0102
 U 1 1 6519F0E7
 P 10875 5100
 F 0 "#PWR0102" H 10875 5100 30  0001 C CNN
@@ -1269,7 +1268,7 @@ Wire Wire Line
 Wire Wire Line
 	10900 1450 10900 1500
 $Comp
-L Cumana-Electron-Disk-Interface:74LS174 U10
+L Cumana-Disk-Interface:74LS174 U10
 U 1 1 64B214D2
 P 7250 1325
 F 0 "U10" H 7050 1850 50  0000 C CNN
@@ -1280,7 +1279,7 @@ F 3 "" H 7250 1325 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:PWR_FLAG #FLG0102
+L Cumana-Disk-Interface:PWR_FLAG #FLG0102
 U 1 1 65D1F4EA
 P 8725 6625
 F 0 "#FLG0102" H 8725 6720 30  0001 C CNN
@@ -1392,7 +1391,7 @@ FDD-Side
 Wire Wire Line
 	10625 1925 10925 1925
 $Comp
-L Cumana-Electron-Disk-Interface:7406 U14
+L Cumana-Disk-Interface:7406 U14
 U 1 1 669C10A2
 P 7775 1075
 F 0 "U14" H 7800 1075 20  0000 R CNN
@@ -1504,7 +1503,7 @@ Wire Wire Line
 Wire Wire Line
 	675  825  1025 825 
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0103
+L Cumana-Disk-Interface:GND #PWR0103
 U 1 1 678A9EC3
 P 1025 3375
 F 0 "#PWR0103" H 1025 3375 30  0001 C CNN
@@ -1549,7 +1548,7 @@ Connection ~ 4025 5550
 Wire Wire Line
 	4025 5550 3925 5550
 $Comp
-L Cumana-Electron-Disk-Interface:27128 U4
+L Cumana-Disk-Interface:27128 U4
 U 1 1 6486E33B
 P 1900 6550
 F 0 "U4" H 1575 7525 50  0000 C CNN
@@ -1691,7 +1690,7 @@ Wire Wire Line
 Text GLabel 8225 3650 0    50   Input ~ 0
 Elk-Reset
 $Comp
-L Cumana-Electron-Disk-Interface:R R9
+L Cumana-Disk-Interface:R R9
 U 1 1 69B81E9A
 P 5900 4750
 F 0 "R9" V 5900 4700 40  0000 L CNN
@@ -1702,7 +1701,7 @@ F 3 "" H 5900 4700 30  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:CP1 C1
+L Cumana-Disk-Interface:CP1 C1
 U 1 1 69B81EA1
 P 6125 4925
 F 0 "C1" H 6200 5000 50  0000 C CNN
@@ -1713,7 +1712,7 @@ F 3 "" H 6125 4925 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0106
+L Cumana-Disk-Interface:GND #PWR0106
 U 1 1 69B81EA9
 P 6125 5075
 F 0 "#PWR0106" H 6125 5075 30  0001 C CNN
@@ -1726,7 +1725,7 @@ $EndComp
 Text GLabel 6150 4525 0    50   Input ~ 0
 Elk-Reset
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0107
+L Cumana-Disk-Interface:+5V #PWR0107
 U 1 1 69BF8CD6
 P 5600 4750
 F 0 "#PWR0107" H 5700 4800 20  0001 C CNN
@@ -1739,7 +1738,7 @@ $EndComp
 Wire Wire Line
 	5600 4750 5750 4750
 $Comp
-L Cumana-Electron-Disk-Interface:R R8
+L Cumana-Disk-Interface:R R8
 U 1 1 6A0AA6B2
 P 6525 4350
 F 0 "R8" V 6525 4300 40  0000 L CNN
@@ -1750,7 +1749,7 @@ F 3 "" H 6525 4300 30  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0108
+L Cumana-Disk-Interface:+5V #PWR0108
 U 1 1 6A0AA6B8
 P 6525 4125
 F 0 "#PWR0108" H 6625 4175 20  0001 C CNN
@@ -1863,7 +1862,7 @@ Elk-CPUClock
 Wire Wire Line
 	6825 1075 6900 1075
 $Comp
-L Cumana-Electron-Disk-Interface:74LS138 U1
+L Cumana-Disk-Interface:74LS138 U1
 U 1 1 6493CD0D
 P 3250 1275
 F 0 "U1" H 3050 1750 50  0000 C CNN
@@ -1912,7 +1911,7 @@ Wire Wire Line
 Wire Wire Line
 	3475 5225 4700 5225
 $Comp
-L Cumana-Electron-Disk-Interface:Q_PNP_CBE Q4
+L Cumana-Disk-Interface:Q_PNP_CBE Q4
 U 1 1 64B5D2B0
 P 7600 3900
 F 0 "Q4" V 7800 3800 50  0000 C CNN
@@ -1923,7 +1922,7 @@ F 3 "" H 7600 3900 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:+5V #PWR0130
+L Cumana-Disk-Interface:+5V #PWR0130
 U 1 1 64BC46BC
 P 7400 3700
 F 0 "#PWR0130" H 7500 3750 20  0001 C CNN
@@ -1936,7 +1935,7 @@ $EndComp
 Wire Wire Line
 	7400 3700 7400 3800
 $Comp
-L Cumana-Electron-Disk-Interface:R R17
+L Cumana-Disk-Interface:R R17
 U 1 1 64C943C3
 P 7800 4100
 F 0 "R17" V 7800 4150 40  0000 R CNN
@@ -1949,7 +1948,7 @@ $EndComp
 Wire Wire Line
 	7600 4100 7650 4100
 $Comp
-L Cumana-Electron-Disk-Interface:Q_NPN_CBE Q5
+L Cumana-Disk-Interface:Q_NPN_CBE Q5
 U 1 1 64CC8796
 P 7925 4450
 F 0 "Q5" H 7775 4575 50  0000 L CNN
@@ -1960,7 +1959,7 @@ F 3 "" H 7925 4450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0134
+L Cumana-Disk-Interface:GND #PWR0134
 U 1 1 64CFCC04
 P 7750 4850
 F 0 "#PWR0134" H 7750 4850 30  0001 C CNN
@@ -1971,7 +1970,7 @@ F 3 "" H 7750 4850 60  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:R R12
+L Cumana-Disk-Interface:R R12
 U 1 1 64E00C9C
 P 8025 3950
 F 0 "R12" V 8025 4000 40  0000 R CNN
@@ -1984,7 +1983,7 @@ $EndComp
 Wire Wire Line
 	8025 4250 8025 4100
 $Comp
-L Cumana-Electron-Disk-Interface:R R14
+L Cumana-Disk-Interface:R R14
 U 1 1 650DD69D
 P 7400 4300
 F 0 "R14" V 7400 4350 40  0000 R CNN
@@ -1995,7 +1994,7 @@ F 3 "" H 7400 4250 30  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:R R15
+L Cumana-Disk-Interface:R R15
 U 1 1 650DD769
 P 7400 4625
 F 0 "R15" V 7400 4675 40  0000 R CNN
@@ -2014,7 +2013,7 @@ Wire Wire Line
 Wire Wire Line
 	7650 3200 8275 3200
 $Comp
-L Cumana-Electron-Disk-Interface:74LS02 U3
+L Cumana-Disk-Interface:74LS02 U3
 U 2 1 649F6987
 P 7550 3200
 F 0 "U3" H 7550 3200 20  0000 C CNN
@@ -2036,7 +2035,7 @@ Wire Wire Line
 Wire Wire Line
 	8025 3800 8275 3800
 $Comp
-L Cumana-Electron-Disk-Interface:Crystal_Small Y1
+L Cumana-Disk-Interface:Crystal_Small Y1
 U 1 1 64C194C5
 P 8200 2750
 F 0 "Y1" V 8200 2700 39  0000 L CNN
@@ -2049,7 +2048,7 @@ $EndComp
 Wire Wire Line
 	8200 2900 8275 2900
 $Comp
-L Cumana-Electron-Disk-Interface:R R18
+L Cumana-Disk-Interface:R R18
 U 1 1 64C5088B
 P 7575 2800
 F 0 "R18" V 7575 2725 50  0000 L CNN
@@ -2060,7 +2059,7 @@ F 3 "" H 7575 2800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:R R19
+L Cumana-Disk-Interface:R R19
 U 1 1 64C50949
 P 8050 2750
 F 0 "R19" V 8050 2675 50  0000 L CNN
@@ -2071,7 +2070,7 @@ F 3 "" H 8050 2750 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0135
+L Cumana-Disk-Interface:GND #PWR0135
 U 1 1 64FA3FB7
 P 7725 2900
 F 0 "#PWR0135" H 7725 2900 30  0001 C CNN
@@ -2082,7 +2081,7 @@ F 3 "" H 7725 2900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C_Variable VC1
+L Cumana-Disk-Interface:C_Variable VC1
 U 1 1 65051B24
 P 7850 2750
 F 0 "VC1" H 7925 2675 50  0000 C CNN
@@ -2097,7 +2096,7 @@ Wire Wire Line
 Wire Wire Line
 	7850 2900 8050 2900
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0136
+L Cumana-Disk-Interface:GND #PWR0136
 U 1 1 6621C21A
 P 7250 2850
 F 0 "#PWR0136" H 7250 2850 30  0001 C CNN
@@ -2108,7 +2107,7 @@ F 3 "" H 7250 2850 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C C3
+L Cumana-Disk-Interface:C C3
 U 1 1 64C60711
 P 7475 3000
 F 0 "C3" V 7375 2950 40  0000 C CNN
@@ -2119,7 +2118,7 @@ F 3 "" H 7475 3000 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C C2
+L Cumana-Disk-Interface:C C2
 U 1 1 64C60A2A
 P 7475 2600
 F 0 "C2" V 7425 2525 40  0000 C CNN
@@ -2231,7 +2230,7 @@ Wire Wire Line
 Wire Wire Line
 	2400 1625 2525 1625
 $Comp
-L Cumana-Electron-Disk-Interface:Diode D2
+L Cumana-Disk-Interface:Diode D2
 U 1 1 6651ACC2
 P 6300 4525
 F 0 "D2" H 6300 4630 39  0000 C CNN
@@ -2242,7 +2241,7 @@ F 3 "~" V 6300 4525 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:Diode D1
+L Cumana-Disk-Interface:Diode D1
 U 1 1 6651AFDB
 P 6300 4750
 F 0 "D1" H 6300 4855 39  0000 C CNN
@@ -2338,7 +2337,7 @@ Wire Wire Line
 Wire Wire Line
 	7725 2650 7725 2900
 $Comp
-L Cumana-Electron-Disk-Interface:D_Zener D3
+L Cumana-Disk-Interface:D_Zener D3
 U 1 1 676D5F22
 P 7400 4000
 F 0 "D3" V 7375 3850 39  0000 L CNN
@@ -2411,7 +2410,7 @@ Wire Notes Line
 Wire Notes Line
 	8150 3750 8150 4925
 $Comp
-L Cumana-Electron-Disk-Interface:CP1 C4
+L Cumana-Disk-Interface:CP1 C4
 U 1 1 67D78D69
 P 9900 6300
 F 0 "C4" H 9975 6375 39  0000 C CNN
@@ -2433,7 +2432,7 @@ Wire Wire Line
 Wire Wire Line
 	7400 4450 7725 4450
 $Comp
-L Cumana-Electron-Disk-Interface:R R13
+L Cumana-Disk-Interface:R R13
 U 1 1 67E40205
 P 9000 2550
 F 0 "R13" V 9000 2475 50  0000 L CNN
@@ -2448,7 +2447,7 @@ Wire Wire Line
 Wire Wire Line
 	9150 2550 9225 2550
 $Comp
-L Cumana-Electron-Disk-Interface:GND #PWR0104
+L Cumana-Disk-Interface:GND #PWR0104
 U 1 1 67F90D90
 P 9600 2625
 F 0 "#PWR0104" H 9600 2625 30  0001 C CNN
@@ -2471,7 +2470,7 @@ Wire Notes Line
 Wire Wire Line
 	4925 650  4875 650 
 $Comp
-L Cumana-Electron-Disk-Interface:74LS00 U2
+L Cumana-Disk-Interface:74LS00 U2
 U 2 1 64C8CF27
 P 4775 650
 F 0 "U2" H 4775 650 20  0000 C CNN
@@ -2482,7 +2481,7 @@ F 3 "" H 4825 650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:74LS00 U2
+L Cumana-Disk-Interface:74LS00 U2
 U 4 1 64C8CF2D
 P 4775 850
 F 0 "U2" H 4775 850 20  0000 C CNN
@@ -2495,7 +2494,7 @@ $EndComp
 Wire Wire Line
 	4875 850  4925 850 
 $Comp
-L Cumana-Electron-Disk-Interface:74LS04 U9
+L Cumana-Disk-Interface:74LS04 U9
 U 6 1 64C8CF34
 P 4525 700
 F 0 "U9" H 4525 700 20  0000 C CNN
@@ -2574,7 +2573,7 @@ A10
 Wire Wire Line
 	5250 7100 5325 7100
 $Comp
-L Cumana-Electron-Disk-Interface:C A1
+L Cumana-Disk-Interface:C A1
 U 1 1 65741AAE
 P 10050 6300
 F 0 "A1" H 10075 6375 40  0000 L CNN
@@ -2585,7 +2584,7 @@ F 3 "" H 10050 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C A2
+L Cumana-Disk-Interface:C A2
 U 1 1 65741ED4
 P 10200 6300
 F 0 "A2" H 10225 6375 40  0000 L CNN
@@ -2596,7 +2595,7 @@ F 3 "" H 10200 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C A3
+L Cumana-Disk-Interface:C A3
 U 1 1 65741F7E
 P 10350 6300
 F 0 "A3" H 10375 6375 40  0000 L CNN
@@ -2607,7 +2606,7 @@ F 3 "" H 10350 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C A4
+L Cumana-Disk-Interface:C A4
 U 1 1 6574202A
 P 10500 6300
 F 0 "A4" H 10525 6375 40  0000 L CNN
@@ -2618,7 +2617,7 @@ F 3 "" H 10500 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C A5
+L Cumana-Disk-Interface:C A5
 U 1 1 657420D4
 P 10650 6300
 F 0 "A5" H 10675 6375 40  0000 L CNN
@@ -2629,7 +2628,7 @@ F 3 "" H 10650 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C A6
+L Cumana-Disk-Interface:C A6
 U 1 1 65742194
 P 10800 6300
 F 0 "A6" H 10825 6375 40  0000 L CNN
@@ -2640,7 +2639,7 @@ F 3 "" H 10800 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Cumana-Electron-Disk-Interface:C A7
+L Cumana-Disk-Interface:C A7
 U 1 1 657887EA
 P 10950 6300
 F 0 "A7" H 10975 6375 40  0000 L CNN
@@ -2726,7 +2725,7 @@ Connection ~ 10800 6525
 Connection ~ 8925 6075
 Connection ~ 8925 6525
 $Comp
-L Cumana-Electron-Disk-Interface:Battery_Cell #BT01
+L Cumana-Disk-Interface:Battery_Cell #BT01
 U 1 1 65EFF647
 P 9425 2550
 F 0 "#BT01" V 9588 2600 50  0001 C CNN
@@ -2740,7 +2739,7 @@ Connection ~ 8925 5975
 Wire Wire Line
 	8725 5975 8925 5975
 $Comp
-L Cumana-Electron-Disk-Interface:PWR_FLAG #FLG0101
+L Cumana-Disk-Interface:PWR_FLAG #FLG0101
 U 1 1 65D1F3CA
 P 8725 5975
 F 0 "#FLG0101" H 8725 6070 30  0001 C CNN
@@ -2753,7 +2752,7 @@ $EndComp
 Text Notes 700  3775 0    50   ~ 0
 Frequency\n  Divider
 $Comp
-L Cumana-Electron-Disk-Interface:74LS32 U8
+L Cumana-Disk-Interface:74LS32 U8
 U 3 1 64C5C94B
 P 6575 7550
 F 0 "U8" H 6575 7550 20  0000 C CNN
@@ -2767,7 +2766,7 @@ NoConn ~ 6475 7525
 NoConn ~ 6475 7575
 NoConn ~ 6675 7550
 $Comp
-L Cumana-Electron-Disk-Interface:74LS04 U9
+L Cumana-Disk-Interface:74LS04 U9
 U 4 1 64D3AB93
 P 6575 7700
 F 0 "U9" H 6575 7700 20  0000 C CNN
