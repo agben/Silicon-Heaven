@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Cumana-Disk-Interface-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -7,7 +8,7 @@ Sheet 1 1
 Title "Acorn Electron - Cumana Disk Interface"
 Date "2023-08-21"
 Rev ""
-Comp ""
+Comp "www.benningtons.net"
 Comment1 ""
 Comment2 ""
 Comment3 ""
