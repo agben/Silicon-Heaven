@@ -6,7 +6,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Acorn Electron - Cumana Disk Interface"
-Date "2023-08-21"
+Date "2023-09-05"
 Rev ""
 Comp "www.benningtons.net"
 Comment1 ""
@@ -2568,17 +2568,6 @@ Wire Wire Line
 Connection ~ 10650 6525
 Connection ~ 8925 6075
 Connection ~ 8925 6525
-$Comp
-L Cumana-Disk-Interface:Battery_Cell #BT01
-U 1 1 65EFF647
-P 9425 2550
-F 0 "#BT01" V 9588 2600 50  0001 C CNN
-F 1 "Battery_Cell" V 9589 2600 50  0001 C CNN
-F 2 "" V 9425 2610 50  0001 C CNN
-F 3 "~" V 9425 2610 50  0001 C CNN
-	1    9425 2550
-	0    -1   -1   0   
-$EndComp
 Connection ~ 8925 5975
 Wire Wire Line
 	8725 5975 8925 5975
@@ -2868,4 +2857,15 @@ Wire Wire Line
 	8475 2300 8650 2300
 Wire Wire Line
 	8650 2300 8650 2350
+$Comp
+L Cumana-Disk-Interface:Battery_Cell BT1
+U 1 1 65017FC0
+P 9425 2550
+F 0 "BT1" V 9500 2450 50  0000 C CNN
+F 1 "Battery_Cell" V 9589 2600 50  0001 C CNN
+F 2 "Cumana-Disk-Interface:Battery_Cell" V 9425 2610 50  0001 C CNN
+F 3 "~" V 9425 2610 50  0001 C CNN
+	1    9425 2550
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC

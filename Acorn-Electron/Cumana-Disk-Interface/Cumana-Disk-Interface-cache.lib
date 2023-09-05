@@ -427,7 +427,7 @@ ENDDEF
 #
 # Cumana-Disk-Interface_Battery_Cell
 #
-DEF Cumana-Disk-Interface_Battery_Cell BT 0 0 N N 1 F P
+DEF Cumana-Disk-Interface_Battery_Cell BT 0 0 N N 1 F N
 F0 "BT" 100 100 50 H V L CNN
 F1 "Cumana-Disk-Interface_Battery_Cell" 100 0 50 H V L CNN
 F2 "" 0 60 50 V I C CNN
