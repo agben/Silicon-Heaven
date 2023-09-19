@@ -67,15 +67,13 @@ K RAM
 $ENDCMP
 #
 $CMP CONN_12X2
-D Generic connector, double row, 02x12, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)
+D Edge connector, double sided, 2x12 fingers
 K connector
-F ~
 $ENDCMP
 #
 $CMP CONN_9X2
-D Generic connector, double row, 02x09, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)
+D Edge connector, double sided, 2x9 fingers
 K connector
-F ~
 $ENDCMP
 #
 $CMP CP1
@@ -89,15 +87,13 @@ K Variable capacitor c cap
 $ENDCMP
 #
 $CMP Conn_01x34_Female
-D Generic connector, single row, 01x34, script generated (kicad-library-utils/schlib/autogen/connector/)
+D 34-way IDC header,  2 rows x 17 pins
 K connector
-F ~
 $ENDCMP
 #
 $CMP Crystal_Small
-D Two pin crystal, small symbol
+D Two pin crystal
 K quartz ceramic resonator oscillator
-F ~
 $ENDCMP
 #
 $CMP D_Zener
