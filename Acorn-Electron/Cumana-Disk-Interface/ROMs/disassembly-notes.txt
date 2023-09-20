@@ -1,0 +1,4 @@
+This is a work in progress using the dxa disassembler, which complements the Linux xa 6502 cross-assembler.
+The dxa command I've been using is below:
+
+dxa -N -a enabled -g 8000 -d strict -B SEDFS.data-blocks -l SEDFS.labels -E SEDFS.hex > SEDFS.asm
