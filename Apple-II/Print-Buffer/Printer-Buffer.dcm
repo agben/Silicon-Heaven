@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74121
+D Monostable multivibrator
+K Multivibrator
+$ENDCMP
+#
+$CMP 74LS374
+D Octal D-Type Edge-Triggered Flip-Flop
+K D-Type Flip-Flop
+$ENDCMP
+#
+#End Doc Library

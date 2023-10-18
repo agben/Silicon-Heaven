@@ -1,0 +1,4 @@
+IC2 is missing which I believe to be a 74LS374 Octal D-Type Edge-triggered flip-flop but it could be a 74LS373 level-triggered latch?
+
+IC4 is missing which I believe to be a 74121 Monostable Multivibrator
+
