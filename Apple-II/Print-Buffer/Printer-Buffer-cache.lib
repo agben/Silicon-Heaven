@@ -268,7 +268,6 @@ F1 "Printer-Buffer_C" 50 -50 40 H I L CNN
 F2 "" 38 -150 30 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
- SM*
  C?
  C1-1
 $ENDFPLIST
