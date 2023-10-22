@@ -1,0 +1,16 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>/home/ben/Code/Circuits/Silicon-Heaven/Apple-II/Print-Buffer/Printer-Buffer.sch</h1>
+    <p><b>Component Count:</b>12</p>
+    <table>
+    <tr><th style='width:280px'>Ref</th><th style='width:50px'>Qnty</th><th>Value</th><th>Description</th></tr><tr><td>C1</td><td>1</td><td>1nF</td><td>Non-polarised capacitor</td></tr><tr><td>C2, C3</td><td>2</td><td>47nF</td><td>Non-polarised capacitor</td></tr><tr><td>J1</td><td>1</td><td>Apple-II-Expansion-Slot</td><td>Edge connector, double sided, 2x25 fingers</td></tr><tr><td>J2</td><td>1</td><td>CONN_2X13</td><td>26-way IDC header,  2 rows x 13 pins</td></tr><tr><td>U1</td><td>1</td><td>HM6116</td><td>6116, 2048 x 8bit words, 2k Byte, 16k bits</td></tr><tr><td>U2</td><td>1</td><td>74LS374</td><td>Octal D-Type Edge-Triggered Flip-Flop</td></tr><tr><td>U3</td><td>1</td><td>74125</td><td>quad bus buffer, negative enable</td></tr><tr><td>U4</td><td>1</td><td>74121</td><td>Monostable multivibrator</td></tr><tr><td>U5</td><td>1</td><td>74LS138</td><td>3-to-8 line decoder/demultiplexer, inverting outputs</td></tr><tr><td>U6</td><td>1</td><td>74LS02</td><td>quad 2-input NOR gate</td></tr><tr><td>U7</td><td>1</td><td>7404</td><td>Hex inverter gate</td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
