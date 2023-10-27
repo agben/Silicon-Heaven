@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name Print-Buffer)(type KiCad)(uri ${KICAD_SYMBOL_DIR}/Apple-II/Print-Buffer/Print-Buffer.pretty)(options "")(descr ""))
+  (lib (name Print-Buffer)(type KiCad)(uri ${KIPRJMOD}/Print-Buffer.pretty)(options "")(descr ""))
 )

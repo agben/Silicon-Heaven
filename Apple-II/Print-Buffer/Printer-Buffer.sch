@@ -458,17 +458,6 @@ F 3 "" H 7675 3350 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Printer-Buffer:CONN_13X2 J2
-U 1 1 6534E0E8
-P 9575 2675
-F 0 "J2" H 9575 3492 50  0000 C CNN
-F 1 "CONN_2X13" H 9575 3401 50  0000 C CNN
-F 2 "Print-Buffer:IDC-Header_2x13_P2.54mm_Vertical_Lock" H 9525 2775 50  0001 C CNN
-F 3 "" H 9525 2775 50  0001 C CNN
-	1    9575 2675
-	1    0    0    -1  
-$EndComp
-$Comp
 L Printer-Buffer:+5V #PWR0107
 U 1 1 653E2076
 P 7675 1725
@@ -1078,4 +1067,15 @@ Text Notes 5850 4850 0    50   ~ 0
 Data output pulse length to printer
 Text Notes 6750 3675 0    50   ~ 0
 Flow control feedback from printer
+$Comp
+L Printer-Buffer:CONN_13X2 J2
+U 1 1 653CD63A
+P 9575 2675
+F 0 "J2" H 9575 3492 50  0000 C CNN
+F 1 "CONN_13X2" H 9575 3401 50  0000 C CNN
+F 2 "Print-Buffer:IDC-Header_2x13_P2.54mm_Vertical_Lock" H 9525 2775 50  0001 C CNN
+F 3 "" H 9525 2775 50  0001 C CNN
+	1    9575 2675
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
